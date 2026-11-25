@@ -1,0 +1,3051 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MIL//ES
+CALSCALE:GREGORIAN
+X-WR-CALNAME:MIL
+BEGIN:VEVENT
+UID:2026-11-24-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Correr: Rodaje fácil 3.5 km
+DESCRIPTION:Semana 1 (Base aeróbica). 3.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 1 (Base aeróbica). Sentadilla goblet 3x10\, peso muert
+ o rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente d
+ e glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Correr: Rodaje fácil 4 km
+DESCRIPTION:Semana 1 (Base aeróbica). 4 km en zona 2 (FC hasta 146 lpm) o
+  a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la FC
+  y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 1 (Base aeróbica). Sentadilla goblet 3x10\, peso muert
+ o rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente d
+ e glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Correr: Tirada larga 5 km
+DESCRIPTION:Semana 1 (Base aeróbica). 5 km en zona 2 (FC hasta 146 lpm) o
+  a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la FC
+  y las sensaciones\, el ritmo es una consecuencia. Constante\, sin aceler
+ ar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Correr: Rodaje fácil 4 km
+DESCRIPTION:Semana 2 (Base aeróbica). 4 km en zona 2 (FC hasta 146 lpm) o
+  a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la FC
+  y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 2 (Base aeróbica). Sentadilla goblet 3x10\, peso muert
+ o rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente d
+ e glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 2 (Base aeróbica). 4.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 2 (Base aeróbica). Sentadilla goblet 3x10\, peso muert
+ o rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente d
+ e glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Correr: Tirada larga 5 km
+DESCRIPTION:Semana 2 (Base aeróbica). 5 km en zona 2 (FC hasta 146 lpm) o
+  a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la FC
+  y las sensaciones\, el ritmo es una consecuencia. Constante\, sin aceler
+ ar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Correr: Rodaje fácil con rectas 4 km
+DESCRIPTION:Semana 3 (Base aeróbica). 4 km en zona 2 (FC hasta 146 lpm) o
+  a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la FC
+  y las sensaciones\, el ritmo es una consecuencia. Al final\, 4 rectas de
+  20 s rápidas pero relajadas\, andando 60 a 90 s entre ellas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 3 (Base aeróbica). Sentadilla goblet 3x10\, peso muert
+ o rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente d
+ e glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 3 (Base aeróbica). 4.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 3 (Base aeróbica). Sentadilla goblet 3x10\, peso muert
+ o rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente d
+ e glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Correr: Tirada larga 5.5 km
+DESCRIPTION:Semana 3 (Base aeróbica). 5.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin acel
+ erar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Correr: Rodaje fácil con rectas 3.5 km
+DESCRIPTION:Semana 4 (Base aeróbica). 3.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia. Al final\, 4 rectas 
+ de 20 s rápidas pero relajadas\, andando 60 a 90 s entre ellas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 4 (Base aeróbica). Descarga: mitad de series. Sentadil
+ la goblet 3x10\, peso muerto rumano 3x10\, elevación de talones lenta (3
+  s bajando) 3x15\, puente de glúteo a una pierna 3x12\, plancha lateral 
+ 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Correr: Rodaje fácil 3.5 km
+DESCRIPTION:Semana 4 (Base aeróbica). 3.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 4 (Base aeróbica). Descarga: mitad de series. Sentadil
+ la goblet 3x10\, peso muerto rumano 3x10\, elevación de talones lenta (3
+  s bajando) 3x15\, puente de glúteo a una pierna 3x12\, plancha lateral 
+ 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Correr: Tirada larga 4.5 km
+DESCRIPTION:Semana 4 (Base aeróbica). 4.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin acel
+ erar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Correr: Rodaje fácil con rectas 4 km
+DESCRIPTION:Semana 5 (Base aeróbica). 4 km en zona 2 (FC hasta 146 lpm) o
+  a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la FC
+  y las sensaciones\, el ritmo es una consecuencia. Al final\, 6 rectas de
+  20 s rápidas pero relajadas\, andando 60 a 90 s entre ellas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 5 (Base aeróbica). Sentadilla goblet 3x10\, peso muert
+ o rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente d
+ e glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 5 (Base aeróbica). 4.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 5 (Base aeróbica). Sentadilla goblet 3x10\, peso muert
+ o rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente d
+ e glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Correr: Tirada larga 5.5 km
+DESCRIPTION:Semana 5 (Base aeróbica). 5.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin acel
+ erar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Correr: Rodaje fácil con rectas 4.5 km
+DESCRIPTION:Semana 6 (Base aeróbica). 4.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia. Al final\, 6 rectas 
+ de 20 s rápidas pero relajadas\, andando 60 a 90 s entre ellas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 6 (Base aeróbica). Sentadilla goblet 3x10\, peso muert
+ o rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente d
+ e glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 6 (Base aeróbica). 4.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 6 (Base aeróbica). Sentadilla goblet 3x10\, peso muert
+ o rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente d
+ e glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Correr: Tirada larga 6 km
+DESCRIPTION:Semana 6 (Base aeróbica). 6 km en zona 2 (FC hasta 146 lpm) o
+  a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la FC
+  y las sensaciones\, el ritmo es una consecuencia. Constante\, sin aceler
+ ar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Correr: Rodaje fácil con rectas 4.5 km
+DESCRIPTION:Semana 7 (Base aeróbica). 4.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia. Al final\, 6 rectas 
+ de 20 s rápidas pero relajadas\, andando 60 a 90 s entre ellas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 7 (Base aeróbica). Sentadilla goblet 3x10\, peso muert
+ o rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente d
+ e glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 7 (Base aeróbica). 4.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 7 (Base aeróbica). Sentadilla goblet 3x10\, peso muert
+ o rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente d
+ e glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-10-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Correr: Tirada larga 6.5 km
+DESCRIPTION:Semana 7 (Base aeróbica). 6.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin acel
+ erar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Correr: Rodaje fácil con rectas 3.5 km
+DESCRIPTION:Semana 8 (Base aeróbica). 3.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia. Al final\, 6 rectas 
+ de 20 s rápidas pero relajadas\, andando 60 a 90 s entre ellas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 8 (Base aeróbica). Descarga: mitad de series. Sentadil
+ la goblet 3x10\, peso muerto rumano 3x10\, elevación de talones lenta (3
+  s bajando) 3x15\, puente de glúteo a una pierna 3x12\, plancha lateral 
+ 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Correr: Rodaje fácil 3.5 km
+DESCRIPTION:Semana 8 (Base aeróbica). 3.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 8 (Base aeróbica). Descarga: mitad de series. Sentadil
+ la goblet 3x10\, peso muerto rumano 3x10\, elevación de talones lenta (3
+  s bajando) 3x15\, puente de glúteo a una pierna 3x12\, plancha lateral 
+ 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-17-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Correr: Tirada larga 5 km
+DESCRIPTION:Semana 8 (Base aeróbica). 5 km en zona 2 (FC hasta 146 lpm) o
+  a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la FC
+  y las sensaciones\, el ritmo es una consecuencia. Constante\, sin aceler
+ ar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Correr: Rodaje fácil con cuestas 4.5 km
+DESCRIPTION:Semana 9 (Base aeróbica). 4.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia. Al final\, 6 cuestas
+  de 8 s a tope con salida explosiva\, bajando andando.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 9 (Base aeróbica). Sentadilla goblet 3x10\, peso muert
+ o rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente d
+ e glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 9 (Base aeróbica). 4.5 km en zona 2 (FC hasta 146 lpm)
+  o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la 
+ FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 9 (Base aeróbica). Sentadilla goblet 3x10\, peso muert
+ o rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente d
+ e glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-24-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Correr: Tirada larga 6 km
+DESCRIPTION:Semana 9 (Base aeróbica). 6 km en zona 2 (FC hasta 146 lpm) o
+  a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la FC
+  y las sensaciones\, el ritmo es una consecuencia. Constante\, sin aceler
+ ar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Correr: Rodaje fácil con cuestas 5 km
+DESCRIPTION:Semana 10 (Base aeróbica). 5 km en zona 2 (FC hasta 146 lpm) 
+ o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la F
+ C y las sensaciones\, el ritmo es una consecuencia. Al final\, 7 cuestas 
+ de 8 s a tope con salida explosiva\, bajando andando.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 10 (Base aeróbica). Sentadilla goblet 3x10\, peso muer
+ to rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente 
+ de glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 10 (Base aeróbica). 5 km en zona 2 (FC hasta 146 lpm) 
+ o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la F
+ C y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 10 (Base aeróbica). Sentadilla goblet 3x10\, peso muer
+ to rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente 
+ de glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-31-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Correr: Tirada larga 6.5 km
+DESCRIPTION:Semana 10 (Base aeróbica). 6.5 km en zona 2 (FC hasta 146 lpm
+ ) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la
+  FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin ace
+ lerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Correr: Rodaje fácil con cuestas 5 km
+DESCRIPTION:Semana 11 (Base aeróbica). 5 km en zona 2 (FC hasta 146 lpm) 
+ o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la F
+ C y las sensaciones\, el ritmo es una consecuencia. Al final\, 8 cuestas 
+ de 8 s a tope con salida explosiva\, bajando andando.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 11 (Base aeróbica). Sentadilla goblet 3x10\, peso muer
+ to rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente 
+ de glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 11 (Base aeróbica). 5 km en zona 2 (FC hasta 146 lpm) 
+ o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la F
+ C y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 11 (Base aeróbica). Sentadilla goblet 3x10\, peso muer
+ to rumano 3x10\, elevación de talones lenta (3 s bajando) 3x15\, puente 
+ de glúteo a una pierna 3x12\, plancha lateral 3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Correr: Tirada larga 7 km
+DESCRIPTION:Semana 11 (Base aeróbica). 7 km en zona 2 (FC hasta 146 lpm) 
+ o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la F
+ C y las sensaciones\, el ritmo es una consecuencia. Constante\, sin acele
+ rar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Correr: Test de 30 minutos 6.5 km
+DESCRIPTION:Semana 12 (Base aeróbica). Calentamiento 15 min\, 30 min al m
+ áximo ritmo sostenible y regular\, enfriamiento 10 min (≈6.5 km). La F
+ C media de los últimos 20 min estima tu umbral (LTHR): anótala con `mil
+  test --tipo 30min --fc N`.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 12 (Base aeróbica). Descarga: mitad de series. Sentadi
+ lla goblet 3x10\, peso muerto rumano 3x10\, elevación de talones lenta (
+ 3 s bajando) 3x15\, puente de glúteo a una pierna 3x12\, plancha lateral
+  3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 12 (Base aeróbica). 4.5 km en zona 2 (FC hasta 146 lpm
+ ) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la
+  FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Fuerza: Fuerza A: base
+DESCRIPTION:Semana 12 (Base aeróbica). Descarga: mitad de series. Sentadi
+ lla goblet 3x10\, peso muerto rumano 3x10\, elevación de talones lenta (
+ 3 s bajando) 3x15\, puente de glúteo a una pierna 3x12\, plancha lateral
+  3x30 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-14-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Correr: Tirada larga 4.5 km
+DESCRIPTION:Semana 12 (Base aeróbica). 4.5 km en zona 2 (FC hasta 146 lpm
+ ) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la
+  FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin ace
+ lerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Correr: Calidad: umbral 4.5 km
+DESCRIPTION:Semana 13 (Desarrollo del umbral). Calentamiento 12 min fácil
+ es\, 2 x 4 min a ritmo de umbral con 1.5 min de trote suave entre repetic
+ iones (5:32 a 5:42 /km\, FC 159+ lpm) y 8 min de enfriamiento. Total 4.5 
+ km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 13 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Correr: Rodaje fácil 3.5 km
+DESCRIPTION:Semana 13 (Desarrollo del umbral). 3.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 13 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Correr: Rodaje fácil 3 km
+DESCRIPTION:Semana 13 (Desarrollo del umbral). 3 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-21-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Correr: Tirada larga 5.5 km
+DESCRIPTION:Semana 13 (Desarrollo del umbral). 5.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, 
+ sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-23-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Correr: Calidad: umbral 4.5 km
+DESCRIPTION:Semana 14 (Desarrollo del umbral). Calentamiento 10 min fácil
+ es\, 2 x 5 min a ritmo de umbral con 2 min de trote suave entre repeticio
+ nes (5:32 a 5:42 /km\, FC 159+ lpm) y 7 min de enfriamiento. Total 4.5 km
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-24-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 14 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-25-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Correr: Rodaje fácil 4 km
+DESCRIPTION:Semana 14 (Desarrollo del umbral). 4 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-26-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 14 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Correr: Rodaje fácil 3 km
+DESCRIPTION:Semana 14 (Desarrollo del umbral). 3 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Correr: Tirada larga 6 km
+DESCRIPTION:Semana 14 (Desarrollo del umbral). 6 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, si
+ n acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Correr: Calidad: umbral 5 km
+DESCRIPTION:Semana 15 (Desarrollo del umbral). Calentamiento 11 min fácil
+ es\, 2 x 6 min a ritmo de umbral con 2 min de trote suave entre repeticio
+ nes (5:32 a 5:42 /km\, FC 159+ lpm) y 7 min de enfriamiento. Total 5 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-03-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 15 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-04-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 15 (Desarrollo del umbral). 4.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-05-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 15 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Correr: Rodaje fácil 3.5 km
+DESCRIPTION:Semana 15 (Desarrollo del umbral). 3.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-07-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Correr: Tirada larga 6.5 km
+DESCRIPTION:Semana 15 (Desarrollo del umbral). 6.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, 
+ sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Correr: Rodaje fácil con rectas 4 km
+DESCRIPTION:Semana 16 (Desarrollo del umbral). 4 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia. Al final\, 6 r
+ ectas de 20 s rápidas pero relajadas\, andando 60 a 90 s entre ellas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-10-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 16 (Desarrollo del umbral). Descarga: mitad de series. 
+ Sentadilla o prensa 3x6-8\, peso muerto rumano 3x6-8\, elevación de talo
+ nes con peso 3x8 (rodilla recta) y 3x10 (rodilla flexionada)\, zancada b
+ úlgara 3x8\, plancha 3x45 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-11-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:Correr: Rodaje fácil 3.5 km
+DESCRIPTION:Semana 16 (Desarrollo del umbral). 3.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-12-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 16 (Desarrollo del umbral). Descarga: mitad de series. 
+ Sentadilla o prensa 3x6-8\, peso muerto rumano 3x6-8\, elevación de talo
+ nes con peso 3x8 (rodilla recta) y 3x10 (rodilla flexionada)\, zancada b
+ úlgara 3x8\, plancha 3x45 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Correr: Rodaje fácil 2.5 km
+DESCRIPTION:Semana 16 (Desarrollo del umbral). 2.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-14-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Correr: Tirada larga 5 km
+DESCRIPTION:Semana 16 (Desarrollo del umbral). 5 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, si
+ n acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-16-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Correr: Calidad: umbral 5 km
+DESCRIPTION:Semana 17 (Desarrollo del umbral). Calentamiento 13 min fácil
+ es\, 2 x 5 min a ritmo de umbral con 1.5 min de trote suave entre repetic
+ iones (5:32 a 5:42 /km\, FC 159+ lpm) y 8 min de enfriamiento. Total 5 km
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-17-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 17 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-18-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Correr: Rodaje fácil 4 km
+DESCRIPTION:Semana 17 (Desarrollo del umbral). 4 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-19-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 17 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-20-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Correr: Rodaje fácil 3.5 km
+DESCRIPTION:Semana 17 (Desarrollo del umbral). 3.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Correr: Tirada larga 6.5 km
+DESCRIPTION:Semana 17 (Desarrollo del umbral). 6.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, 
+ sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-23-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Correr: Calidad: umbral 5 km
+DESCRIPTION:Semana 18 (Desarrollo del umbral). Calentamiento 9 min fácile
+ s\, 2 x 7 min a ritmo de umbral con 2 min de trote suave entre repeticion
+ es (5:32 a 5:42 /km\, FC 159+ lpm) y 6 min de enfriamiento. Total 5 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-24-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 18 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-25-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 18 (Desarrollo del umbral). 4.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-26-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 18 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-27-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Correr: Rodaje fácil 3.5 km
+DESCRIPTION:Semana 18 (Desarrollo del umbral). 3.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-28-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Correr: Tirada larga 7 km
+DESCRIPTION:Semana 18 (Desarrollo del umbral). 7 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, si
+ n acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-30-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Correr: Calidad: umbral 5.5 km
+DESCRIPTION:Semana 19 (Desarrollo del umbral). Calentamiento 9 min fácile
+ s\, 2 x 8 min a ritmo de umbral con 3 min de trote suave entre repeticion
+ es (5:32 a 5:42 /km\, FC 159+ lpm) y 6 min de enfriamiento. Total 5.5 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-31-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 19 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-01-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 19 (Desarrollo del umbral). 5 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-02-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 19 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-03-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Correr: Rodaje fácil 4 km
+DESCRIPTION:Semana 19 (Desarrollo del umbral). 4 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-04-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Correr: Tirada larga 7.5 km
+DESCRIPTION:Semana 19 (Desarrollo del umbral). 7.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, 
+ sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-06-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Correr: Rodaje fácil con rectas 4.5 km
+DESCRIPTION:Semana 20 (Desarrollo del umbral). 4.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia. Al final\, 6
+  rectas de 20 s rápidas pero relajadas\, andando 60 a 90 s entre ellas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-07-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 20 (Desarrollo del umbral). Descarga: mitad de series. 
+ Sentadilla o prensa 3x6-8\, peso muerto rumano 3x6-8\, elevación de talo
+ nes con peso 3x8 (rodilla recta) y 3x10 (rodilla flexionada)\, zancada b
+ úlgara 3x8\, plancha 3x45 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-08-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:Correr: Rodaje fácil 3.5 km
+DESCRIPTION:Semana 20 (Desarrollo del umbral). 3.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-09-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 20 (Desarrollo del umbral). Descarga: mitad de series. 
+ Sentadilla o prensa 3x6-8\, peso muerto rumano 3x6-8\, elevación de talo
+ nes con peso 3x8 (rodilla recta) y 3x10 (rodilla flexionada)\, zancada b
+ úlgara 3x8\, plancha 3x45 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-10-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Correr: Rodaje fácil 3 km
+DESCRIPTION:Semana 20 (Desarrollo del umbral). 3 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-11-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Correr: Tirada larga 5.5 km
+DESCRIPTION:Semana 20 (Desarrollo del umbral). 5.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, 
+ sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-13-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Correr: Calidad: umbral 5.5 km
+DESCRIPTION:Semana 21 (Desarrollo del umbral). Calentamiento 13 min fácil
+ es\, 2 x 6 min a ritmo de umbral con 2 min de trote suave entre repeticio
+ nes (5:32 a 5:42 /km\, FC 159+ lpm) y 9 min de enfriamiento. Total 5.5 km
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-14-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 21 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-15-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 21 (Desarrollo del umbral). 4.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-16-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 21 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-17-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Correr: Rodaje fácil 3.5 km
+DESCRIPTION:Semana 21 (Desarrollo del umbral). 3.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-18-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Correr: Tirada larga 7 km
+DESCRIPTION:Semana 21 (Desarrollo del umbral). 7 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, si
+ n acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-20-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Correr: Calidad: umbral 6 km
+DESCRIPTION:Semana 22 (Desarrollo del umbral). Calentamiento 12 min fácil
+ es\, 2 x 8 min a ritmo de umbral con 2 min de trote suave entre repeticio
+ nes (5:32 a 5:42 /km\, FC 159+ lpm) y 8 min de enfriamiento. Total 6 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-21-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 22 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-22-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 22 (Desarrollo del umbral). 5 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-23-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 22 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-24-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Correr: Rodaje fácil 4 km
+DESCRIPTION:Semana 22 (Desarrollo del umbral). 4 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-25-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Correr: Tirada larga 7.5 km
+DESCRIPTION:Semana 22 (Desarrollo del umbral). 7.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, 
+ sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-27-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Correr: Calidad: umbral 6.5 km
+DESCRIPTION:Semana 23 (Desarrollo del umbral). Calentamiento 9 min fácile
+ s\, 2 x 11 min a ritmo de umbral con 3 min de trote suave entre repeticio
+ nes (5:32 a 5:42 /km\, FC 159+ lpm) y 6 min de enfriamiento. Total 6.5 km
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-28-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 23 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-29-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Correr: Rodaje fácil 5.5 km
+DESCRIPTION:Semana 23 (Desarrollo del umbral). 5.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-30-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 23 (Desarrollo del umbral). Sentadilla o prensa 3x6-8\,
+  peso muerto rumano 3x6-8\, elevación de talones con peso 3x8 (rodilla r
+ ecta) y 3x10 (rodilla flexionada)\, zancada búlgara 3x8\, plancha 3x45 s
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-01-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 23 (Desarrollo del umbral). 4.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-02-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Correr: Tirada larga 8 km
+DESCRIPTION:Semana 23 (Desarrollo del umbral). 8 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, si
+ n acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-04-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Correr: Test de 5 km 7 km
+DESCRIPTION:Semana 24 (Desarrollo del umbral). Calentamiento 15 min con 4 
+ rectas\, 5 km al máximo ritmo regular\, enfriamiento 10 min (≈7 km). R
+ egistra el tiempo con `mil test --tipo 5k --tiempo mm:ss` para recalibrar
+  ritmos.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-05-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 24 (Desarrollo del umbral). Descarga: mitad de series. 
+ Sentadilla o prensa 3x6-8\, peso muerto rumano 3x6-8\, elevación de talo
+ nes con peso 3x8 (rodilla recta) y 3x10 (rodilla flexionada)\, zancada b
+ úlgara 3x8\, plancha 3x45 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-06-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 24 (Desarrollo del umbral). 4.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-07-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Fuerza: Fuerza B: carga
+DESCRIPTION:Semana 24 (Desarrollo del umbral). Descarga: mitad de series. 
+ Sentadilla o prensa 3x6-8\, peso muerto rumano 3x6-8\, elevación de talo
+ nes con peso 3x8 (rodilla recta) y 3x10 (rodilla flexionada)\, zancada b
+ úlgara 3x8\, plancha 3x45 s.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-08-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Correr: Rodaje fácil 3.5 km
+DESCRIPTION:Semana 24 (Desarrollo del umbral). 3.5 km en zona 2 (FC hasta 
+ 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: m
+ anda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-09-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Correr: Tirada larga 6 km
+DESCRIPTION:Semana 24 (Desarrollo del umbral). 6 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, si
+ n acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-11-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Correr: Calidad: VO2max 6 km
+DESCRIPTION:Semana 25 (Potencia aeróbica). Calentamiento 10 min fáciles\
+ , 4 x 3 min a ritmo de intervalos de VO2max con 3 min de trote suave entr
+ e repeticiones (5:00 a 5:08 /km\, FC 172+ lpm) y 7 min de enfriamiento. T
+ otal 6 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-12-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 25 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-13-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 25 (Potencia aeróbica). 5 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-14-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 25 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-15-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Correr: Rodaje fácil 4 km
+DESCRIPTION:Semana 25 (Potencia aeróbica). 4 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-16-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Correr: Tirada larga 8 km
+DESCRIPTION:Semana 25 (Potencia aeróbica). 8 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin a
+ celerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-18-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Correr: Calidad: umbral 6.5 km
+DESCRIPTION:Semana 26 (Potencia aeróbica). Calentamiento 14 min fáciles\
+ , 2 x 8 min a ritmo de umbral con 2 min de trote suave entre repeticiones
+  (5:32 a 5:42 /km\, FC 159+ lpm) y 9 min de enfriamiento. Total 6.5 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-19-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 26 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-20-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Correr: Rodaje fácil 5.5 km
+DESCRIPTION:Semana 26 (Potencia aeróbica). 5.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-21-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 26 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-22-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 26 (Potencia aeróbica). 4.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-23-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Correr: Tirada larga 8.5 km
+DESCRIPTION:Semana 26 (Potencia aeróbica). 8.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin
+  acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-25-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Correr: Calidad: VO2max 7 km
+DESCRIPTION:Semana 27 (Potencia aeróbica). Calentamiento 11 min fáciles\
+ , 5 x 3 min a ritmo de intervalos de VO2max con 2.5 min de trote suave en
+ tre repeticiones (5:00 a 5:08 /km\, FC 172+ lpm) y 7 min de enfriamiento.
+  Total 7 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-26-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 27 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-27-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Correr: Rodaje fácil 6 km
+DESCRIPTION:Semana 27 (Potencia aeróbica). 6 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-28-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 27 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-29-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 27 (Potencia aeróbica). 5 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-30-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Correr: Tirada larga 9 km
+DESCRIPTION:Semana 27 (Potencia aeróbica). 9 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin a
+ celerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-01-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Correr: Rodaje fácil con rectas 5.5 km
+DESCRIPTION:Semana 28 (Potencia aeróbica). 5.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia. Al final\, 6 re
+ ctas de 20 s rápidas pero relajadas\, andando 60 a 90 s entre ellas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-02-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 28 (Potencia aeróbica). Descarga: mitad de series. Sen
+ tadilla pesada 3x5\, peso muerto 3x5\, elevación de talones pesada 3x6\,
+  saltos de pogo 3x20 s\, escalón con salto 3x6. Todo con técnica limpia
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-03-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 28 (Potencia aeróbica). 4.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-04-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 28 (Potencia aeróbica). Descarga: mitad de series. Sen
+ tadilla pesada 3x5\, peso muerto 3x5\, elevación de talones pesada 3x6\,
+  saltos de pogo 3x20 s\, escalón con salto 3x6. Todo con técnica limpia
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-05-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Correr: Rodaje fácil 3.5 km
+DESCRIPTION:Semana 28 (Potencia aeróbica). 3.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-06-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Correr: Tirada larga 7 km
+DESCRIPTION:Semana 28 (Potencia aeróbica). 7 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin a
+ celerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-08-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Correr: Calidad: VO2max 6.5 km
+DESCRIPTION:Semana 29 (Potencia aeróbica). Calentamiento 9 min fáciles\,
+  5 x 3 min a ritmo de intervalos de VO2max con 2.5 min de trote suave ent
+ re repeticiones (5:00 a 5:08 /km\, FC 172+ lpm) y 6 min de enfriamiento. 
+ Total 6.5 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-09-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 29 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-10-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Correr: Rodaje fácil 5.5 km
+DESCRIPTION:Semana 29 (Potencia aeróbica). 5.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-11-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 29 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-12-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 29 (Potencia aeróbica). 4.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-13-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Correr: Tirada larga 8.5 km
+DESCRIPTION:Semana 29 (Potencia aeróbica). 8.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin
+  acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-15-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Correr: Calidad: umbral 7 km
+DESCRIPTION:Semana 30 (Potencia aeróbica). Calentamiento 10 min fáciles\
+ , 2 x 12 min a ritmo de umbral con 3 min de trote suave entre repeticione
+ s (5:32 a 5:42 /km\, FC 159+ lpm) y 6 min de enfriamiento. Total 7 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-16-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 30 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-17-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:Correr: Rodaje fácil 6 km
+DESCRIPTION:Semana 30 (Potencia aeróbica). 6 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-18-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 30 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-19-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 30 (Potencia aeróbica). 5 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-20-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Correr: Tirada larga 9.5 km
+DESCRIPTION:Semana 30 (Potencia aeróbica). 9.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin
+  acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-22-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:Correr: Calidad: VO2max 8 km
+DESCRIPTION:Semana 31 (Potencia aeróbica). Calentamiento 11 min fáciles\
+ , 6 x 3 min a ritmo de intervalos de VO2max con 2.5 min de trote suave en
+ tre repeticiones (5:00 a 5:08 /km\, FC 172+ lpm) y 7 min de enfriamiento.
+  Total 8 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-23-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 31 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-24-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Correr: Rodaje fácil 6.5 km
+DESCRIPTION:Semana 31 (Potencia aeróbica). 6.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-25-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 31 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-26-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Correr: Rodaje fácil 5.5 km
+DESCRIPTION:Semana 31 (Potencia aeróbica). 5.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-27-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Correr: Tirada larga 10 km
+DESCRIPTION:Semana 31 (Potencia aeróbica). 10 km en zona 2 (FC hasta 146 
+ lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda
+  la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin 
+ acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-29-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Correr: Rodaje fácil con rectas 6 km
+DESCRIPTION:Semana 32 (Potencia aeróbica). 6 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia. Al final\, 6 rect
+ as de 20 s rápidas pero relajadas\, andando 60 a 90 s entre ellas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-30-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 32 (Potencia aeróbica). Descarga: mitad de series. Sen
+ tadilla pesada 3x5\, peso muerto 3x5\, elevación de talones pesada 3x6\,
+  saltos de pogo 3x20 s\, escalón con salto 3x6. Todo con técnica limpia
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-01-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 32 (Potencia aeróbica). 5 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-02-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 32 (Potencia aeróbica). Descarga: mitad de series. Sen
+ tadilla pesada 3x5\, peso muerto 3x5\, elevación de talones pesada 3x6\,
+  saltos de pogo 3x20 s\, escalón con salto 3x6. Todo con técnica limpia
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-03-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Correr: Rodaje fácil 4 km
+DESCRIPTION:Semana 32 (Potencia aeróbica). 4 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-04-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Correr: Tirada larga 8 km
+DESCRIPTION:Semana 32 (Potencia aeróbica). 8 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin a
+ celerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-06-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Correr: Calidad: VO2max 7.5 km
+DESCRIPTION:Semana 33 (Potencia aeróbica). Calentamiento 13 min fáciles\
+ , 4 x 4 min a ritmo de intervalos de VO2max con 3 min de trote suave entr
+ e repeticiones (5:00 a 5:08 /km\, FC 172+ lpm) y 9 min de enfriamiento. T
+ otal 7.5 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-07-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 33 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-08-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Correr: Rodaje fácil 6 km
+DESCRIPTION:Semana 33 (Potencia aeróbica). 6 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-09-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 33 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-10-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 33 (Potencia aeróbica). 5 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-11-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Correr: Tirada larga 9.5 km
+DESCRIPTION:Semana 33 (Potencia aeróbica). 9.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin
+  acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-13-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:Correr: Calidad: umbral 8 km
+DESCRIPTION:Semana 34 (Potencia aeróbica). Calentamiento 9 min fáciles\,
+  3 x 10 min a ritmo de umbral con 2 min de trote suave entre repeticiones
+  (5:32 a 5:42 /km\, FC 159+ lpm) y 6 min de enfriamiento. Total 8 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-14-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 34 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-15-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:Correr: Rodaje fácil 6.5 km
+DESCRIPTION:Semana 34 (Potencia aeróbica). 6.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-16-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 34 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-17-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Correr: Rodaje fácil 5.5 km
+DESCRIPTION:Semana 34 (Potencia aeróbica). 5.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-18-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Correr: Tirada larga 10 km
+DESCRIPTION:Semana 34 (Potencia aeróbica). 10 km en zona 2 (FC hasta 146 
+ lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda
+  la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin 
+ acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-20-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Correr: Calidad: VO2max 8 km
+DESCRIPTION:Semana 35 (Potencia aeróbica). Calentamiento 10 min fáciles\
+ , 5 x 4 min a ritmo de intervalos de VO2max con 3 min de trote suave entr
+ e repeticiones (5:00 a 5:08 /km\, FC 172+ lpm) y 6 min de enfriamiento. T
+ otal 8 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-21-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 35 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-22-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Correr: Rodaje fácil 7 km
+DESCRIPTION:Semana 35 (Potencia aeróbica). 7 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-23-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 35 (Potencia aeróbica). Sentadilla pesada 3x5\, peso m
+ uerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3x20 s\, es
+ calón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-24-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Correr: Rodaje fácil 5.5 km
+DESCRIPTION:Semana 35 (Potencia aeróbica). 5.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-25-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Correr: Tirada larga 10.5 km
+DESCRIPTION:Semana 35 (Potencia aeróbica). 10.5 km en zona 2 (FC hasta 14
+ 6 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: man
+ da la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, si
+ n acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-27-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Correr: Test de 30 minutos 9 km
+DESCRIPTION:Semana 36 (Potencia aeróbica). Calentamiento 15 min\, 30 min 
+ al máximo ritmo sostenible y regular\, enfriamiento 10 min (≈9 km). La
+  FC media de los últimos 20 min estima tu umbral (LTHR): anótala con `m
+ il test --tipo 30min --fc N`.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-28-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 36 (Potencia aeróbica). Descarga: mitad de series. Sen
+ tadilla pesada 3x5\, peso muerto 3x5\, elevación de talones pesada 3x6\,
+  saltos de pogo 3x20 s\, escalón con salto 3x6. Todo con técnica limpia
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-29-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:Correr: Rodaje fácil 6 km
+DESCRIPTION:Semana 36 (Potencia aeróbica). 6 km en zona 2 (FC hasta 146 l
+ pm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda 
+ la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-30-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 36 (Potencia aeróbica). Descarga: mitad de series. Sen
+ tadilla pesada 3x5\, peso muerto 3x5\, elevación de talones pesada 3x6\,
+  saltos de pogo 3x20 s\, escalón con salto 3x6. Todo con técnica limpia
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-31-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 36 (Potencia aeróbica). 4.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-01-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Correr: Tirada larga 7.5 km
+DESCRIPTION:Semana 36 (Potencia aeróbica). 7.5 km en zona 2 (FC hasta 146
+  lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: mand
+ a la FC y las sensaciones\, el ritmo es una consecuencia. Constante\, sin
+  acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-03-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Correr: Calidad: umbral 7.5 km
+DESCRIPTION:Semana 37 (Específica y consolidación). Calentamiento 9 min 
+ fáciles\, 2 x 14 min a ritmo de umbral con 3 min de trote suave entre re
+ peticiones (5:32 a 5:42 /km\, FC 159+ lpm) y 6 min de enfriamiento. Total
+  7.5 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-04-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 37 (Específica y consolidación). Sentadilla pesada 3x
+ 5\, peso muerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3
+ x20 s\, escalón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-05-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:Correr: Rodaje fácil 6 km
+DESCRIPTION:Semana 37 (Específica y consolidación). 6 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-06-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 37 (Específica y consolidación). Sentadilla pesada 3x
+ 5\, peso muerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3
+ x20 s\, escalón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-07-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 37 (Específica y consolidación). 5 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-08-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Correr: Tirada larga 9.5 km
+DESCRIPTION:Semana 37 (Específica y consolidación). 9.5 km en zona 2 (FC
+  hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18
+  /km: manda la FC y las sensaciones\, el ritmo es una consecuencia. Const
+ ante\, sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-10-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Correr: Calidad: VO2max 8 km
+DESCRIPTION:Semana 38 (Específica y consolidación). Calentamiento 15 min
+  fáciles\, 5 x 3 min a ritmo de intervalos de VO2max con 2.5 min de trot
+ e suave entre repeticiones (5:00 a 5:08 /km\, FC 172+ lpm) y 10 min de en
+ friamiento. Total 8 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-11-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 38 (Específica y consolidación). Sentadilla pesada 3x
+ 5\, peso muerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3
+ x20 s\, escalón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-12-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:Correr: Rodaje fácil 6.5 km
+DESCRIPTION:Semana 38 (Específica y consolidación). 6.5 km en zona 2 (FC
+  hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18
+  /km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-13-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 38 (Específica y consolidación). Sentadilla pesada 3x
+ 5\, peso muerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3
+ x20 s\, escalón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-14-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Correr: Rodaje fácil 5.5 km
+DESCRIPTION:Semana 38 (Específica y consolidación). 5.5 km en zona 2 (FC
+  hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18
+  /km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-15-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Correr: Tirada larga 10 km
+DESCRIPTION:Semana 38 (Específica y consolidación). 10 km en zona 2 (FC 
+ hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 
+ /km: manda la FC y las sensaciones\, el ritmo es una consecuencia. Consta
+ nte\, sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-17-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Correr: Calidad: VO2max 8 km
+DESCRIPTION:Semana 39 (Específica y consolidación). Calentamiento 12 min
+  fáciles\, 4 x 5 min a ritmo de intervalos de VO2max con 3 min de trote 
+ suave entre repeticiones (5:00 a 5:08 /km\, FC 172+ lpm) y 8 min de enfri
+ amiento. Total 8 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-18-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 39 (Específica y consolidación). Sentadilla pesada 3x
+ 5\, peso muerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3
+ x20 s\, escalón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-19-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:Correr: Rodaje fácil 7 km
+DESCRIPTION:Semana 39 (Específica y consolidación). 7 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-20-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 39 (Específica y consolidación). Sentadilla pesada 3x
+ 5\, peso muerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3
+ x20 s\, escalón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-21-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Correr: Rodaje fácil 5.5 km
+DESCRIPTION:Semana 39 (Específica y consolidación). 5.5 km en zona 2 (FC
+  hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18
+  /km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-22-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Correr: Tirada larga 10.5 km
+DESCRIPTION:Semana 39 (Específica y consolidación). 10.5 km en zona 2 (F
+ C hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:1
+ 8 /km: manda la FC y las sensaciones\, el ritmo es una consecuencia. Cons
+ tante\, sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-24-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Correr: Rodaje fácil con rectas 6 km
+DESCRIPTION:Semana 40 (Específica y consolidación). 6 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia. Al fina
+ l\, 6 rectas de 20 s rápidas pero relajadas\, andando 60 a 90 s entre el
+ las.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-25-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 40 (Específica y consolidación). Descarga: mitad de s
+ eries. Sentadilla pesada 3x5\, peso muerto 3x5\, elevación de talones pe
+ sada 3x6\, saltos de pogo 3x20 s\, escalón con salto 3x6. Todo con técn
+ ica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-26-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 40 (Específica y consolidación). 5 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-27-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 40 (Específica y consolidación). Descarga: mitad de s
+ eries. Sentadilla pesada 3x5\, peso muerto 3x5\, elevación de talones pe
+ sada 3x6\, saltos de pogo 3x20 s\, escalón con salto 3x6. Todo con técn
+ ica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-28-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 40 (Específica y consolidación). 4.5 km en zona 2 (FC
+  hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18
+  /km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-29-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Correr: Tirada larga 8 km
+DESCRIPTION:Semana 40 (Específica y consolidación). 8 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia. Constan
+ te\, sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-31-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Correr: Calidad: umbral 7.5 km
+DESCRIPTION:Semana 41 (Específica y consolidación). Calentamiento 15 min
+  fáciles\, 2 x 10 min a ritmo de umbral con 2 min de trote suave entre r
+ epeticiones (5:32 a 5:42 /km\, FC 159+ lpm) y 10 min de enfriamiento. Tot
+ al 7.5 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-01-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 41 (Específica y consolidación). Sentadilla pesada 3x
+ 5\, peso muerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3
+ x20 s\, escalón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-02-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:Correr: Rodaje fácil 6 km
+DESCRIPTION:Semana 41 (Específica y consolidación). 6 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-03-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 41 (Específica y consolidación). Sentadilla pesada 3x
+ 5\, peso muerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3
+ x20 s\, escalón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-04-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 41 (Específica y consolidación). 5 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-05-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Correr: Tirada larga 9.5 km
+DESCRIPTION:Semana 41 (Específica y consolidación). 9.5 km en zona 2 (FC
+  hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18
+  /km: manda la FC y las sensaciones\, el ritmo es una consecuencia. Const
+ ante\, sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-07-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Correr: Calidad: VO2max 8 km
+DESCRIPTION:Semana 42 (Específica y consolidación). Calentamiento 10 min
+  fáciles\, 5 x 4 min a ritmo de intervalos de VO2max con 3 min de trote 
+ suave entre repeticiones (5:00 a 5:08 /km\, FC 172+ lpm) y 6 min de enfri
+ amiento. Total 8 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-08-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 42 (Específica y consolidación). Sentadilla pesada 3x
+ 5\, peso muerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3
+ x20 s\, escalón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-09-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:Correr: Rodaje fácil 6.5 km
+DESCRIPTION:Semana 42 (Específica y consolidación). 6.5 km en zona 2 (FC
+  hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18
+  /km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-10-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 42 (Específica y consolidación). Sentadilla pesada 3x
+ 5\, peso muerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3
+ x20 s\, escalón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-11-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Correr: Rodaje fácil 5.5 km
+DESCRIPTION:Semana 42 (Específica y consolidación). 5.5 km en zona 2 (FC
+  hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18
+  /km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-12-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Correr: Tirada larga 10 km
+DESCRIPTION:Semana 42 (Específica y consolidación). 10 km en zona 2 (FC 
+ hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 
+ /km: manda la FC y las sensaciones\, el ritmo es una consecuencia. Consta
+ nte\, sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-14-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Correr: Calidad: umbral 8 km
+DESCRIPTION:Semana 43 (Específica y consolidación). Calentamiento 9 min 
+ fáciles\, 2 x 15 min a ritmo de umbral con 3 min de trote suave entre re
+ peticiones (5:32 a 5:42 /km\, FC 159+ lpm) y 6 min de enfriamiento. Total
+  8 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-15-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 43 (Específica y consolidación). Sentadilla pesada 3x
+ 5\, peso muerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3
+ x20 s\, escalón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-16-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Correr: Rodaje fácil 7 km
+DESCRIPTION:Semana 43 (Específica y consolidación). 7 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-17-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 43 (Específica y consolidación). Sentadilla pesada 3x
+ 5\, peso muerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3
+ x20 s\, escalón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-18-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Correr: Rodaje fácil 5.5 km
+DESCRIPTION:Semana 43 (Específica y consolidación). 5.5 km en zona 2 (FC
+  hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18
+  /km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-19-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Correr: Tirada larga 10.5 km
+DESCRIPTION:Semana 43 (Específica y consolidación). 10.5 km en zona 2 (F
+ C hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:1
+ 8 /km: manda la FC y las sensaciones\, el ritmo es una consecuencia. Cons
+ tante\, sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-21-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:Correr: Rodaje fácil con rectas 6 km
+DESCRIPTION:Semana 44 (Específica y consolidación). 6 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia. Al fina
+ l\, 6 rectas de 20 s rápidas pero relajadas\, andando 60 a 90 s entre el
+ las.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-22-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 44 (Específica y consolidación). Descarga: mitad de s
+ eries. Sentadilla pesada 3x5\, peso muerto 3x5\, elevación de talones pe
+ sada 3x6\, saltos de pogo 3x20 s\, escalón con salto 3x6. Todo con técn
+ ica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-23-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 44 (Específica y consolidación). 5 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-24-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 44 (Específica y consolidación). Descarga: mitad de s
+ eries. Sentadilla pesada 3x5\, peso muerto 3x5\, elevación de talones pe
+ sada 3x6\, saltos de pogo 3x20 s\, escalón con salto 3x6. Todo con técn
+ ica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-25-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 44 (Específica y consolidación). 4.5 km en zona 2 (FC
+  hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18
+  /km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-26-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Correr: Tirada larga 8 km
+DESCRIPTION:Semana 44 (Específica y consolidación). 8 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia. Constan
+ te\, sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-28-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20270929
+SUMMARY:Correr: Calidad: VO2max 7.5 km
+DESCRIPTION:Semana 45 (Específica y consolidación). Calentamiento 13 min
+  fáciles\, 4 x 4 min a ritmo de intervalos de VO2max con 3 min de trote 
+ suave entre repeticiones (5:00 a 5:08 /km\, FC 172+ lpm) y 9 min de enfri
+ amiento. Total 7.5 km.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-29-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 45 (Específica y consolidación). Sentadilla pesada 3x
+ 5\, peso muerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3
+ x20 s\, escalón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-30-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:Correr: Rodaje fácil 6 km
+DESCRIPTION:Semana 45 (Específica y consolidación). 6 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-01-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 45 (Específica y consolidación). Sentadilla pesada 3x
+ 5\, peso muerto 3x5\, elevación de talones pesada 3x6\, saltos de pogo 3
+ x20 s\, escalón con salto 3x6. Todo con técnica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-02-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 45 (Específica y consolidación). 5 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-03-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:Correr: Tirada larga 9.5 km
+DESCRIPTION:Semana 45 (Específica y consolidación). 9.5 km en zona 2 (FC
+  hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18
+  /km: manda la FC y las sensaciones\, el ritmo es una consecuencia. Const
+ ante\, sin acelerar al final. Lleva agua si pasas de 75 min.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-05-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:Correr: Rodaje fácil con rectas 6 km
+DESCRIPTION:Semana 46 (Específica y consolidación). 6 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia. Al fina
+ l\, 6 rectas de 20 s rápidas pero relajadas\, andando 60 a 90 s entre el
+ las.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-06-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271007
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 46 (Específica y consolidación). Descarga: mitad de s
+ eries. Sentadilla pesada 3x5\, peso muerto 3x5\, elevación de talones pe
+ sada 3x6\, saltos de pogo 3x20 s\, escalón con salto 3x6. Todo con técn
+ ica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-07-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+SUMMARY:Correr: Rodaje fácil 5 km
+DESCRIPTION:Semana 46 (Específica y consolidación). 5 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-08-strength@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:Fuerza: Fuerza C: potencia
+DESCRIPTION:Semana 46 (Específica y consolidación). Descarga: mitad de s
+ eries. Sentadilla pesada 3x5\, peso muerto 3x5\, elevación de talones pe
+ sada 3x6\, saltos de pogo 3x20 s\, escalón con salto 3x6. Todo con técn
+ ica limpia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-09-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:Correr: Rodaje fácil 4.5 km
+DESCRIPTION:Semana 46 (Específica y consolidación). 4.5 km en zona 2 (FC
+  hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18
+  /km: manda la FC y las sensaciones\, el ritmo es una consecuencia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-10-run@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:Correr: Tirada larga final 8 km
+DESCRIPTION:Semana 46 (Específica y consolidación). 8 km en zona 2 (FC h
+ asta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /
+ km: manda la FC y las sensaciones\, el ritmo es una consecuencia. Constan
+ te\, sin acelerar al final. Lleva agua si pasas de 75 min. Con esta tirad
+ a completas los 1000 km del plan. Después empieza tu margen de 6 semanas
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-11-reserve@mil
+DTSTAMP:20261125T172835Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:Margen: Empieza el margen de 6 semanas
+DESCRIPTION:Semana 47 (Margen). Si ya tienes los km\, corre suave a tu gus
+ to o descansa: esto no cuenta para el plan. Si te falta distancia por les
+ ión\, viaje o enfermedad\, usa `mil replan` y el plan la reparte aquí.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

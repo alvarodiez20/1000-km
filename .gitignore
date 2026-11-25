@@ -1,0 +1,14 @@
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+docs/
+# Nunca subas tokens ni credenciales
+.garminconnect/
+garmin_tokens.json
+.env
+data/_probe/
+# Sueño, VFC y FC en reposo son datos de salud: no se suben por defecto.
+# Si tu repositorio es privado y quieres su historial, borra esta línea.
+data/wellness.json
+docs-demo/

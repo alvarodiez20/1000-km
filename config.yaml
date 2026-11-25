@@ -1,0 +1,37 @@
+# MIL: configuración del reto
+proyecto: MIL
+inicio: 2026-11-23          # lunes de la semana 1
+fin: 2027-11-23             # último día del reto (incluido)
+margen_semanas: 6           # el plan completa los km este número de semanas ANTES de `fin`
+objetivo_km: 1000
+
+corredor:
+  # Todo es opcional. Lo que Garmin conozca (tras `mil sync`) tiene prioridad sobre estos valores,
+  # salvo que lo fijes aquí con forzar: true.
+  forzar: false
+  edad: null                # solo se usa si no hay FC máxima (fórmula de Tanaka)
+  fc_max: null
+  fc_reposo: null
+  fc_umbral: null           # FC en el umbral de lactato (LTHR)
+  tiempo_5k: null           # "mm:ss", mejor marca reciente o test
+  vdot: null                # si lo conoces; si no, se deduce del 5K
+  km_semana_actual: 12      # cuánto corres ahora por semana (semana 1 del plan)
+  carrera_larga_reciente_km: null   # tu tirada más larga de los últimos 30 días (por defecto 40% de la semana 1)
+
+# Días de la semana: lun mar mie jue vie sab dom
+dias:
+  correr_3: [mar, jue, dom]
+  correr_4: [mar, jue, sab, dom]
+  fuerza: [mie, vie]
+
+# Tipos de actividad de Garmin que cuentan para los 1000 km
+tipos_actividad:
+  - running
+  - trail_running
+  - treadmill_running
+  - track_running
+  - virtual_run
+  - indoor_running
+
+# El panel público nunca incluye GPS. Esto controla si además publica sueño, VFC y FC en reposo.
+publicar_bienestar: false
