@@ -1,0 +1,981 @@
+{
+  "acumulado": [
+    {
+      "actual": 12.1,
+      "date": "2026-11-25",
+      "plan": 3.5,
+      "today": true
+    },
+    {
+      "actual": null,
+      "date": "2026-11-29",
+      "plan": 12.5
+    },
+    {
+      "actual": null,
+      "date": "2026-12-06",
+      "plan": 26.0
+    },
+    {
+      "actual": null,
+      "date": "2026-12-13",
+      "plan": 40.0
+    },
+    {
+      "actual": null,
+      "date": "2026-12-20",
+      "plan": 51.5
+    },
+    {
+      "actual": null,
+      "date": "2026-12-27",
+      "plan": 65.5
+    },
+    {
+      "actual": null,
+      "date": "2027-01-03",
+      "plan": 80.5
+    },
+    {
+      "actual": null,
+      "date": "2027-01-10",
+      "plan": 96.0
+    },
+    {
+      "actual": null,
+      "date": "2027-01-17",
+      "plan": 108.0
+    },
+    {
+      "actual": null,
+      "date": "2027-01-24",
+      "plan": 123.0
+    },
+    {
+      "actual": null,
+      "date": "2027-01-31",
+      "plan": 139.5
+    },
+    {
+      "actual": null,
+      "date": "2027-02-07",
+      "plan": 156.5
+    },
+    {
+      "actual": null,
+      "date": "2027-02-14",
+      "plan": 172.0
+    },
+    {
+      "actual": null,
+      "date": "2027-02-21",
+      "plan": 188.5
+    },
+    {
+      "actual": null,
+      "date": "2027-02-28",
+      "plan": 206.0
+    },
+    {
+      "actual": null,
+      "date": "2027-03-07",
+      "plan": 225.5
+    },
+    {
+      "actual": null,
+      "date": "2027-03-14",
+      "plan": 240.5
+    },
+    {
+      "actual": null,
+      "date": "2027-03-21",
+      "plan": 259.5
+    },
+    {
+      "actual": null,
+      "date": "2027-03-28",
+      "plan": 279.5
+    },
+    {
+      "actual": null,
+      "date": "2027-04-04",
+      "plan": 301.5
+    },
+    {
+      "actual": null,
+      "date": "2027-04-11",
+      "plan": 318.0
+    },
+    {
+      "actual": null,
+      "date": "2027-04-18",
+      "plan": 338.5
+    },
+    {
+      "actual": null,
+      "date": "2027-04-25",
+      "plan": 361.0
+    },
+    {
+      "actual": null,
+      "date": "2027-05-02",
+      "plan": 385.5
+    },
+    {
+      "actual": null,
+      "date": "2027-05-09",
+      "plan": 406.5
+    },
+    {
+      "actual": null,
+      "date": "2027-05-16",
+      "plan": 429.5
+    },
+    {
+      "actual": null,
+      "date": "2027-05-23",
+      "plan": 454.5
+    },
+    {
+      "actual": null,
+      "date": "2027-05-30",
+      "plan": 481.5
+    },
+    {
+      "actual": null,
+      "date": "2027-06-06",
+      "plan": 502.0
+    },
+    {
+      "actual": null,
+      "date": "2027-06-13",
+      "plan": 527.0
+    },
+    {
+      "actual": null,
+      "date": "2027-06-20",
+      "plan": 554.5
+    },
+    {
+      "actual": null,
+      "date": "2027-06-27",
+      "plan": 584.5
+    },
+    {
+      "actual": null,
+      "date": "2027-07-04",
+      "plan": 607.5
+    },
+    {
+      "actual": null,
+      "date": "2027-07-11",
+      "plan": 635.5
+    },
+    {
+      "actual": null,
+      "date": "2027-07-18",
+      "plan": 665.5
+    },
+    {
+      "actual": null,
+      "date": "2027-07-25",
+      "plan": 696.5
+    },
+    {
+      "actual": null,
+      "date": "2027-08-01",
+      "plan": 723.5
+    },
+    {
+      "actual": null,
+      "date": "2027-08-08",
+      "plan": 751.5
+    },
+    {
+      "actual": null,
+      "date": "2027-08-15",
+      "plan": 781.5
+    },
+    {
+      "actual": null,
+      "date": "2027-08-22",
+      "plan": 812.5
+    },
+    {
+      "actual": null,
+      "date": "2027-08-29",
+      "plan": 836.0
+    },
+    {
+      "actual": null,
+      "date": "2027-09-05",
+      "plan": 864.0
+    },
+    {
+      "actual": null,
+      "date": "2027-09-12",
+      "plan": 894.0
+    },
+    {
+      "actual": null,
+      "date": "2027-09-19",
+      "plan": 925.0
+    },
+    {
+      "actual": null,
+      "date": "2027-09-26",
+      "plan": 948.5
+    },
+    {
+      "actual": null,
+      "date": "2027-10-03",
+      "plan": 976.5
+    },
+    {
+      "actual": null,
+      "date": "2027-10-10",
+      "plan": 1000.0
+    },
+    {
+      "actual": null,
+      "date": "2027-10-17",
+      "plan": 1000.0
+    },
+    {
+      "actual": null,
+      "date": "2027-10-24",
+      "plan": 1000.0
+    },
+    {
+      "actual": null,
+      "date": "2027-10-31",
+      "plan": 1000.0
+    },
+    {
+      "actual": null,
+      "date": "2027-11-07",
+      "plan": 1000.0
+    },
+    {
+      "actual": null,
+      "date": "2027-11-14",
+      "plan": 1000.0
+    },
+    {
+      "actual": null,
+      "date": "2027-11-21",
+      "plan": 1000.0
+    },
+    {
+      "actual": null,
+      "date": "2027-11-23",
+      "plan": 1000.0
+    }
+  ],
+  "alertas": [],
+  "con_bienestar": false,
+  "delta_km": 8.6,
+  "dias_restantes": 363,
+  "estado": {
+    "codigo": "adelantado",
+    "texto": "Vas 8.6 km por delante del plan."
+  },
+  "faltan_km": 987.9,
+  "fin": "2027-11-23",
+  "generado": "2026-11-25T18:47:52",
+  "hecho_km": 12.1,
+  "hoy": "2026-11-25",
+  "inicio": "2026-11-23",
+  "intensidad_4_semanas": null,
+  "margen": {
+    "desde": "2027-10-11",
+    "fin_plan": "2027-10-10",
+    "hasta": "2027-11-23",
+    "semanas": 6
+  },
+  "media_4_semanas_km": null,
+  "necesario_semana_km": 19.1,
+  "objetivo_km": 1000.0,
+  "perfil": {
+    "fc_max": 204,
+    "fc_umbral": 179,
+    "last_sync": "2026-11-25T18:47:52",
+    "vo2max": 49
+  },
+  "plan": {
+    "aviso": null,
+    "ritmos": {
+      "E": [
+        "6:38",
+        "7:18"
+      ],
+      "I": [
+        "5:00",
+        "5:08"
+      ],
+      "R": [
+        "4:38",
+        "4:49"
+      ],
+      "T": [
+        "5:32",
+        "5:42"
+      ]
+    },
+    "total_plan_km": 1000.0,
+    "vdot": 36.0,
+    "vdot_src": "defecto",
+    "zonas_fc": {
+      "metodo": "reserva cardíaca (Karvonen)",
+      "provisional": true,
+      "rangos": [
+        [
+          0,
+          133
+        ],
+        [
+          134,
+          146
+        ],
+        [
+          147,
+          158
+        ],
+        [
+          159,
+          171
+        ],
+        [
+          172,
+          184
+        ]
+      ],
+      "techo_facil": 146
+    }
+  },
+  "plan_hasta_hoy_km": 3.5,
+  "proximos_7_dias": [
+    {
+      "date": "2026-11-25",
+      "description": "Sentadilla goblet 3x10, peso muerto rumano 3x10, elevación de talones lenta (3 s bajando) 3x15, puente de glúteo a una pierna 3x12, plancha lateral 3x30 s.",
+      "duration_min": 25,
+      "km": 0.0,
+      "title": "Fuerza A: base",
+      "type": "strength",
+      "weekday": "miércoles",
+      "zone": ""
+    },
+    {
+      "date": "2026-11-26",
+      "description": "4 km en zona 2 (FC hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la FC y las sensaciones, el ritmo es una consecuencia.",
+      "duration_min": 28,
+      "km": 4.0,
+      "title": "Rodaje fácil",
+      "type": "run",
+      "weekday": "jueves",
+      "zone": "Z2"
+    },
+    {
+      "date": "2026-11-27",
+      "description": "Sentadilla goblet 3x10, peso muerto rumano 3x10, elevación de talones lenta (3 s bajando) 3x15, puente de glúteo a una pierna 3x12, plancha lateral 3x30 s.",
+      "duration_min": 25,
+      "km": 0.0,
+      "title": "Fuerza A: base",
+      "type": "strength",
+      "weekday": "viernes",
+      "zone": ""
+    },
+    {
+      "date": "2026-11-28",
+      "description": "Descanso activo: paseo, movilidad suave y sueño largo.",
+      "duration_min": 0,
+      "km": 0.0,
+      "title": "Descanso",
+      "type": "rest",
+      "weekday": "sábado",
+      "zone": ""
+    },
+    {
+      "date": "2026-11-29",
+      "description": "5 km en zona 2 (FC hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la FC y las sensaciones, el ritmo es una consecuencia. Constante, sin acelerar al final. Lleva agua si pasas de 75 min.",
+      "duration_min": 35,
+      "km": 5.0,
+      "title": "Tirada larga",
+      "type": "run",
+      "weekday": "domingo",
+      "zone": "Z2"
+    },
+    {
+      "date": "2026-11-30",
+      "description": "Descanso activo: paseo, movilidad suave y sueño largo.",
+      "duration_min": 0,
+      "km": 0.0,
+      "title": "Descanso",
+      "type": "rest",
+      "weekday": "lunes",
+      "zone": ""
+    },
+    {
+      "date": "2026-12-01",
+      "description": "4 km en zona 2 (FC hasta 146 lpm) o a ritmo de conversación. Ritmo orientativo 6:38 a 7:18 /km: manda la FC y las sensaciones, el ritmo es una consecuencia.",
+      "duration_min": 28,
+      "km": 4.0,
+      "title": "Rodaje fácil",
+      "type": "run",
+      "weekday": "martes",
+      "zone": "Z2"
+    }
+  ],
+  "proyeccion_km": null,
+  "proyecto": "MIL",
+  "semanas": [
+    {
+      "kind": "carga",
+      "km": 12.1,
+      "monday": "2026-11-23",
+      "phase": "A",
+      "plan_km": 12.5,
+      "runs": 2,
+      "shares": {
+        "easy": 0.603,
+        "hard": 0.117,
+        "moderate": 0.28
+      },
+      "week": 1
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2026-11-30",
+      "phase": "A",
+      "plan_km": 13.5,
+      "runs": 0,
+      "shares": null,
+      "week": 2
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2026-12-07",
+      "phase": "A",
+      "plan_km": 14.0,
+      "runs": 0,
+      "shares": null,
+      "week": 3
+    },
+    {
+      "kind": "descarga",
+      "km": null,
+      "monday": "2026-12-14",
+      "phase": "A",
+      "plan_km": 11.5,
+      "runs": 0,
+      "shares": null,
+      "week": 4
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2026-12-21",
+      "phase": "A",
+      "plan_km": 14.0,
+      "runs": 0,
+      "shares": null,
+      "week": 5
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2026-12-28",
+      "phase": "A",
+      "plan_km": 15.0,
+      "runs": 0,
+      "shares": null,
+      "week": 6
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-01-04",
+      "phase": "A",
+      "plan_km": 15.5,
+      "runs": 0,
+      "shares": null,
+      "week": 7
+    },
+    {
+      "kind": "descarga",
+      "km": null,
+      "monday": "2027-01-11",
+      "phase": "A",
+      "plan_km": 12.0,
+      "runs": 0,
+      "shares": null,
+      "week": 8
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-01-18",
+      "phase": "A",
+      "plan_km": 15.0,
+      "runs": 0,
+      "shares": null,
+      "week": 9
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-01-25",
+      "phase": "A",
+      "plan_km": 16.5,
+      "runs": 0,
+      "shares": null,
+      "week": 10
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-02-01",
+      "phase": "A",
+      "plan_km": 17.0,
+      "runs": 0,
+      "shares": null,
+      "week": 11
+    },
+    {
+      "kind": "test",
+      "km": null,
+      "monday": "2027-02-08",
+      "phase": "A",
+      "plan_km": 15.5,
+      "runs": 0,
+      "shares": null,
+      "week": 12
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-02-15",
+      "phase": "B",
+      "plan_km": 16.5,
+      "runs": 0,
+      "shares": null,
+      "week": 13
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-02-22",
+      "phase": "B",
+      "plan_km": 17.5,
+      "runs": 0,
+      "shares": null,
+      "week": 14
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-03-01",
+      "phase": "B",
+      "plan_km": 19.5,
+      "runs": 0,
+      "shares": null,
+      "week": 15
+    },
+    {
+      "kind": "descarga",
+      "km": null,
+      "monday": "2027-03-08",
+      "phase": "B",
+      "plan_km": 15.0,
+      "runs": 0,
+      "shares": null,
+      "week": 16
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-03-15",
+      "phase": "B",
+      "plan_km": 19.0,
+      "runs": 0,
+      "shares": null,
+      "week": 17
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-03-22",
+      "phase": "B",
+      "plan_km": 20.0,
+      "runs": 0,
+      "shares": null,
+      "week": 18
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-03-29",
+      "phase": "B",
+      "plan_km": 22.0,
+      "runs": 0,
+      "shares": null,
+      "week": 19
+    },
+    {
+      "kind": "descarga",
+      "km": null,
+      "monday": "2027-04-05",
+      "phase": "B",
+      "plan_km": 16.5,
+      "runs": 0,
+      "shares": null,
+      "week": 20
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-04-12",
+      "phase": "B",
+      "plan_km": 20.5,
+      "runs": 0,
+      "shares": null,
+      "week": 21
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-04-19",
+      "phase": "B",
+      "plan_km": 22.5,
+      "runs": 0,
+      "shares": null,
+      "week": 22
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-04-26",
+      "phase": "B",
+      "plan_km": 24.5,
+      "runs": 0,
+      "shares": null,
+      "week": 23
+    },
+    {
+      "kind": "test",
+      "km": null,
+      "monday": "2027-05-03",
+      "phase": "B",
+      "plan_km": 21.0,
+      "runs": 0,
+      "shares": null,
+      "week": 24
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-05-10",
+      "phase": "C",
+      "plan_km": 23.0,
+      "runs": 0,
+      "shares": null,
+      "week": 25
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-05-17",
+      "phase": "C",
+      "plan_km": 25.0,
+      "runs": 0,
+      "shares": null,
+      "week": 26
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-05-24",
+      "phase": "C",
+      "plan_km": 27.0,
+      "runs": 0,
+      "shares": null,
+      "week": 27
+    },
+    {
+      "kind": "descarga",
+      "km": null,
+      "monday": "2027-05-31",
+      "phase": "C",
+      "plan_km": 20.5,
+      "runs": 0,
+      "shares": null,
+      "week": 28
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-06-07",
+      "phase": "C",
+      "plan_km": 25.0,
+      "runs": 0,
+      "shares": null,
+      "week": 29
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-06-14",
+      "phase": "C",
+      "plan_km": 27.5,
+      "runs": 0,
+      "shares": null,
+      "week": 30
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-06-21",
+      "phase": "C",
+      "plan_km": 30.0,
+      "runs": 0,
+      "shares": null,
+      "week": 31
+    },
+    {
+      "kind": "descarga",
+      "km": null,
+      "monday": "2027-06-28",
+      "phase": "C",
+      "plan_km": 23.0,
+      "runs": 0,
+      "shares": null,
+      "week": 32
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-07-05",
+      "phase": "C",
+      "plan_km": 28.0,
+      "runs": 0,
+      "shares": null,
+      "week": 33
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-07-12",
+      "phase": "C",
+      "plan_km": 30.0,
+      "runs": 0,
+      "shares": null,
+      "week": 34
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-07-19",
+      "phase": "C",
+      "plan_km": 31.0,
+      "runs": 0,
+      "shares": null,
+      "week": 35
+    },
+    {
+      "kind": "test",
+      "km": null,
+      "monday": "2027-07-26",
+      "phase": "C",
+      "plan_km": 27.0,
+      "runs": 0,
+      "shares": null,
+      "week": 36
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-08-02",
+      "phase": "D",
+      "plan_km": 28.0,
+      "runs": 0,
+      "shares": null,
+      "week": 37
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-08-09",
+      "phase": "D",
+      "plan_km": 30.0,
+      "runs": 0,
+      "shares": null,
+      "week": 38
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-08-16",
+      "phase": "D",
+      "plan_km": 31.0,
+      "runs": 0,
+      "shares": null,
+      "week": 39
+    },
+    {
+      "kind": "descarga",
+      "km": null,
+      "monday": "2027-08-23",
+      "phase": "D",
+      "plan_km": 23.5,
+      "runs": 0,
+      "shares": null,
+      "week": 40
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-08-30",
+      "phase": "D",
+      "plan_km": 28.0,
+      "runs": 0,
+      "shares": null,
+      "week": 41
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-09-06",
+      "phase": "D",
+      "plan_km": 30.0,
+      "runs": 0,
+      "shares": null,
+      "week": 42
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-09-13",
+      "phase": "D",
+      "plan_km": 31.0,
+      "runs": 0,
+      "shares": null,
+      "week": 43
+    },
+    {
+      "kind": "descarga",
+      "km": null,
+      "monday": "2027-09-20",
+      "phase": "D",
+      "plan_km": 23.5,
+      "runs": 0,
+      "shares": null,
+      "week": 44
+    },
+    {
+      "kind": "carga",
+      "km": null,
+      "monday": "2027-09-27",
+      "phase": "D",
+      "plan_km": 28.0,
+      "runs": 0,
+      "shares": null,
+      "week": 45
+    },
+    {
+      "kind": "descarga",
+      "km": null,
+      "monday": "2027-10-04",
+      "phase": "D",
+      "plan_km": 23.5,
+      "runs": 0,
+      "shares": null,
+      "week": 46
+    },
+    {
+      "kind": "margen",
+      "km": null,
+      "monday": "2027-10-11",
+      "phase": "R",
+      "plan_km": 0.0,
+      "runs": 0,
+      "shares": null,
+      "week": 47
+    },
+    {
+      "kind": "margen",
+      "km": null,
+      "monday": "2027-10-18",
+      "phase": "R",
+      "plan_km": 0.0,
+      "runs": 0,
+      "shares": null,
+      "week": 48
+    },
+    {
+      "kind": "margen",
+      "km": null,
+      "monday": "2027-10-25",
+      "phase": "R",
+      "plan_km": 0.0,
+      "runs": 0,
+      "shares": null,
+      "week": 49
+    },
+    {
+      "kind": "margen",
+      "km": null,
+      "monday": "2027-11-01",
+      "phase": "R",
+      "plan_km": 0.0,
+      "runs": 0,
+      "shares": null,
+      "week": 50
+    },
+    {
+      "kind": "margen",
+      "km": null,
+      "monday": "2027-11-08",
+      "phase": "R",
+      "plan_km": 0.0,
+      "runs": 0,
+      "shares": null,
+      "week": 51
+    },
+    {
+      "kind": "margen",
+      "km": null,
+      "monday": "2027-11-15",
+      "phase": "R",
+      "plan_km": 0.0,
+      "runs": 0,
+      "shares": null,
+      "week": 52
+    },
+    {
+      "kind": "margen",
+      "km": null,
+      "monday": "2027-11-22",
+      "phase": "R",
+      "plan_km": 0.0,
+      "runs": 0,
+      "shares": null,
+      "week": 53
+    }
+  ],
+  "ultimas_carreras": [
+    {
+      "avg_hr": 128.0,
+      "date": "2026-11-24",
+      "km": 6.08,
+      "pace_s_km": 393.6
+    },
+    {
+      "avg_hr": 138.0,
+      "date": "2026-11-23",
+      "km": 6.02,
+      "pace_s_km": 399.2
+    }
+  ]
+}
