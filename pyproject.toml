@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mil-km"
+name = "1000-km"
 version = "0.1.0"
 description = "Plan de 1000 km en un año (23 nov 2026 a 23 nov 2027) con sincronización desde Garmin Forerunner 255"
 requires-python = ">=3.12"
