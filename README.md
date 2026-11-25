@@ -7,8 +7,8 @@ Mil kilómetros, un año, cada día suma.
 ## Empezar en 5 minutos
 
 ```bash
-python3 -m venv .venv && source .venv/bin/activate
-pip install -e ".[garmin,dev]"
+uv venv && source .venv/bin/activate
+uv pip install -e ".[garmin,dev]"
 pytest -q                      # 35 pruebas, deben pasar
 mil plan                        # genera plan/plan.json, plan.csv y mil-km.ics
 mil garmin-login                # UNA vez: email, contraseña y código MFA. Solo se guardan tokens
